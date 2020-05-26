@@ -1,0 +1,295 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>www.capital-arise.com</title>
+<base href="https://www.capital-arise.com/" src="https://www.capital-arise.com/" />
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body bgcolor="#FFFFF2" link="#666699" vlink="#666699" alink="#666699" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" >
+<center>
+<table width="760" border="0" cellpadding="0" cellspacing="0" height=100%>  <tr> 
+    <td valign=top height=142>
+      <table cellspacing=0 cellpadding=0 border=0 width=100% height=142>
+	    <tr>
+		  <td background="images/ver.gif" class=toptable><img src="images/top.gif" width=304 height=142 border="0" align=left></td>
+		  <td background="images/ver.gif" class=toptable valign=bottom align=right>
+
+<b>
+<a href="?a=home" class=toplink>Home</a> &middot; 
+<a href="?a=faq" class=toplink>FAQ</a> &middot; 
+<a href="?a=rules" class=toplink>Rules</a> &middot; 
+<a href="?a=signup" class=toplink>Sign up</a> &middot; 
+<a href="?a=login" class=toplink>Login</a> &middot; 
+<a href="?a=support" class=toplink>Support</a></b>&nbsp; &nbsp;</td>
+ 	    </tr>
+	  </table>
+     </td>
+  </tr>
+
+
+
+  <tr> 
+    <td valign="top">
+	 <table cellspacing=0 cellpadding=1 border=0 width=100% height=100%  class=line>
+	   <tr>
+	     <td>
+           <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+             <tr class=bgcolorleft valign="top"> 
+              <td width=300 align=center><img src="images/q.gif" width=180 height=1>
+				   <!-- Image Table: Start -->
+
+
+<script language=javascript>
+function checklogin() {   
+  if (document.loginform.username.value=='') {
+    alert("Please enter your username!");
+    document.loginform.username.focus();
+    return false;
+  }
+  if (document.loginform.password.value=='') {
+    alert("Please enter your password!");
+    document.loginform.password.focus();
+    return false;
+  }
+  return true;
+}
+</script>
+
+<form method=post name=loginform onsubmit="return checklogin()"><input type="hidden" name="form_id" value="15905207279035"><input type="hidden" name="form_token" value="ab21775e3438bf13cae48e3c52ef9bce">
+<input type=hidden name=a value='do_login'>
+<input type=hidden name=follow value=''>
+<table cellspacing=0 cellpadding=2 border=0 width="100%">
+<tr>
+ <th colspan=2><img src=images/q.gif width=1 height=3></th>
+</tr>
+<tr>
+ <th colspan=2 class=title>Member login</th>
+ </tr>
+<tr>
+ <td class=menutxt>Username:</td>
+ <td><input type=text name=username class=inpts size=15></td>
+</tr>
+<tr>
+ <td class=menutxt>Password:</td>
+ <td><input type=password name=password class=inpts size=15></td>
+</tr>
+
+<tr>
+ <td class=menutxt><img src="?a=show_validation_image&PHPSESSID=vnmejopnt3bbvvma7r68b7g3h4&rand=194909327"></td>
+ <td><input type=text name=validation_number class=inpts size=15></td>
+</tr>
+
+
+
+
+<tr>
+ <td class=menutxt>&nbsp;</td>
+ <td><input type=submit value="Login" class=sbmt size=15></td>
+</tr>
+<tr>
+ <td colspan=2 align=right><a href="?a=forgot_password" class=menutxt>Password recovery</a>
+</table>
+</form>
+
+
+				   
+<br>
+
+<!-- Image Table: Start -->
+<table cellspacing=0 cellpadding=2 border=0 width=100%><tr>
+ <th colspan=2><img src=images/q.gif width=1 height=3></th>
+</tr>
+<tr>
+	<th colspan=2 class=title>Stats</th>
+</tr>
+<tr>
+	<td class=menutxt><a href="?a=members_stats" class=menutxt>Investors Stats</a></td>
+</tr>
+<tr>
+	<td class=menutxt><a href="?a=paidout" class=menutxt>Paid Out</a></td>
+</tr>
+<tr>
+	<td class=menutxt><a href="?a=top10" class=menutxt>Investors Top 10</a></td>
+</tr>
+<tr>
+	<td class=menutxt><a href="?a=last10" class=menutxt>Investors Last 10</a></td>
+</tr>
+</table>
+<br>
+
+                                   
+<br>
+<!-- Image Table: Start -->
+<table cellspacing=0 cellpadding=2 border=0 width=100%><tr>
+ <th colspan=2><img src=images/q.gif width=1 height=3></th>
+</tr>
+<tr>
+	<th colspan=2 class=title>Info</th>
+</tr>
+<tr>
+	<td class=menutxt colspan=2><b>Started</b> &nbsp; &nbsp; &nbsp; &nbsp; May 21, 2020</td>
+</tr>
+<tr>
+	<td class=menutxt><b>Running days</b></td>
+	<td class=menutxt align=right>5</td>
+</tr>
+<tr>
+	<td class=menutxt><b>Total accounts</b></td>
+	<td class=menutxt align=right>31</td>
+</tr>
+<tr>
+	<td class=menutxt><b>Total deposited</b></td>
+	<td class=menutxt align=right>&#579; 0.01246637</td>
+</tr>
+<tr>
+	<td class=menutxt><b>Total withdraw</b></td>
+	<td class=menutxt align=right>&#579; 0.00400000</td>
+</tr>
+<tr>
+	<td class=menutxt><b>Newest Member</b></td>
+	<td class=menutxt align=right>zedeer</td>
+</tr>
+
+
+	
+
+
+
+</table>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+					<!-- Stats Table: End -->
+					<!-- Image Table: End -->
+
+
+              </td>
+              <td class=line valign="top" width=1><img src=images/q.gif width=1 height=1></td>          
+              <td class=bgcolormain valign="top" width=99%>            <!-- Main: Start -->
+            <table width="100%" height="100%" border="0" cellpadding="10" cellspacing="0" class="forTexts">
+              <tr>
+                <td width=100% height=100% valign=top>
+<div class=framebody>
+
+<h3>FAQ.</h3><br>
+<p align=justify> <b>How can I invest with www.capital-arise.com ?</b><br>
+  To make a investment you must first become a member of www.capital-arise.com . Once 
+  you are signed up, you can make your first deposit. All deposits must be made 
+  through the Members Area. You can login using the member username and password 
+  you receive when signup. <br>
+  <br>
+  <b>I wish to invest with www.capital-arise.com but I don't have an any ecurrency account. What 
+  should I do?</b><br>
+  You can open a free Blockchain account here: <a href="https://www.blockchain.com/">www.blockchain.com</a><br>
+  <br>
+  <br>
+  <b>How do I open my www.capital-arise.com  Account?</b><br>
+  It's quite easy and convenient. Follow this <a href="?a=signup">link</a>, fill 
+  in the registration form and then press "Register". <br>
+  <br>
+  <b>Which e-currencies do you accept?</b><br>
+  We accept
+                              
+              only Bitcoin. <br>
+  <br>
+  <b>How can I withdraw funds?</b><br>
+  Login to your account using your username and password and check the Withdraw 
+  section. <br>
+  <br>
+  <b>How long does it take for my deposit to be added to my account?</b><br>
+  Your account will be updated upon reaching the 3 confirmations in the Blockchain. <br>
+  <br>
+  <b></b><br>
+   <br>
+  <br>
+  <b>What if I can't log into my account because I forgot my password?</b><br>
+  Click <a href="?a=forgot_password">forgot password</a> link, type your username 
+  or e-mail and you'll receive your account information. <br>
+  <br>
+  <b>Does a daily profit paid directly to my currency account?</b><br>
+  No, profits are gathered on your www.capital-arise.com account and you can withdraw them 
+  anytime on working days. <br>
+  <br>
+  <b>How do you calculate the interest on my account?</b><br>
+  Interest on your www.capital-arise.com  account is acquired 
+  on working days and credited to your available 
+  balance. <br>
+  <br>
+  <b>Can I do a direct deposit from my account balance?</b><br>
+  Yes! To make a deposit from your www.capital-arise.com  account balance Simply login 
+  into your members account and click on Make Deposit and select the Deposit from 
+  Account Balance button. <br>
+  <br>
+  <b>Can I make an additional deposit to www.capital-arise.com  account once it has 
+  been opened?</b><br>
+  Yes you can, according to the rules of the selected plan but all transactions are handled separately. <br>
+  <br>
+  <b>After I make a withdrawal request, when will the funds be available on my 
+  ecurrency account?</b><br>
+  Funds will be available in maximum 48 hours. <br>
+  <br>
+  <b>How can I change my password?</b><br>
+  You can change your password directly from your members area by editing it in 
+  your personal profile. <br>
+  <br>
+  <b>Can I lose money?</b><br>
+  There is a risk involved with investing in all investment programs. However, 
+  there are a few simple ways that can help you to reduce the risk of losing more than 
+  you can afford to. First, align your investments with your financial goals, 
+  in other words, keep the money you may need for the short-term out of more aggressive 
+  investments, reserving those investment funds for the money you intend to raise 
+  over the long-term. It's very important for you to know that we invest members' funds on major investments. <br>
+  <br>
+  <b>How can I check my account balances?</b><br>
+  You can access the account information 24 hours, seven days a week over the Internet. 
+  <br>
+  <br>
+  <b>May I open several accounts in your program?</b><br>
+  No. If we find that one member has more than one account, the entire funds will 
+  be frozen. <br>
+  <br>
+  <b>How can I make a spend?</b><br>
+  To make a spend you must first become a member of www.capital-arise.com . Once you 
+  are signed up, you can make your first spend. All spends must be made through 
+  the Member Area. You can login using the member username and password you received 
+  when signup. <br>
+  <br>
+  <b>Who manages the funds?</b><br>
+  These funds are managed by a team of www.capital-arise.com investment experts. <br>
+  <br>
+</p>
+</div>
+
+              </td>
+              </tr>
+            </table>
+            <!-- Main: END -->
+
+              </td>
+
+             </tr>
+           </table>
+		  </td>
+		 </tr>
+	   </table>
+	 </td>
+  </tr>
+
+
+
+  <tr> 
+    <td height="19" class="forCopyright">All Rights Reserved. <a href='https://www.capital-arise.com' class="forCopyright">www.capital-arise.com</a></td>
+  </tr>
+</table>
+</center></body>
+</html>
